@@ -1,3 +1,3 @@
-module github.com/ljfuyuan/suffixtree
+module github.com/zhyc9de/suffixtree
 
 go 1.14
